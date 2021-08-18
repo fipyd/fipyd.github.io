@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: d18b343dd9c7ca49518a                            #生成的clientID
-  clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
+  clientID: baa6bb2f91e98a7f9ed8                            #生成的clientID
+  clientSecret: f8828b32fb55dcda702a29c74bd168ef236bb78c    #生成的clientSecret
   repo: fipyd.github.io    #仓库名称
   owner: fipyd    #github用户名
   admin: fipyd
