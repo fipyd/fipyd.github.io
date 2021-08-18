@@ -1,9 +1,9 @@
 # Site settings
-title: 杂学怪谈
+title: 杂 学 怪 谈
 SEOTitle: 杂学怪谈|学点没有用的知识
 header-img: img/post-bg-desk.jpg
 email: hanbingpoxue88@sina.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
+description: "充实自己，每天学点没用的知识！"
 keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
 url: "https://fipyd.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: fipyd.github.io    #仓库名称
+  owner: fipyd    #github用户名
+  admin: fipyd
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
