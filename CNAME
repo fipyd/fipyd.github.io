@@ -1,1 +1,2 @@
-ruiyugc.cn
+$ touch CNAME
+$ echo 'ruiyugc.cn'> CNAME 
